@@ -1,1 +1,2 @@
-# FMCG-Supply-Chain-Optimization
+This project addresses supply chain inefficiencies in the FMCG sector, focusing on a leading company's instant noodles distribution network. The company struggles with demand-supply mismatches — high-demand regions often face stockouts, while low-demand areas are oversupplied.
+Using a Kaggle dataset containing warehouse and logistics data, this project develops a predictive and analytical system to optimize inventory allocation and enhance supply chain responsiveness.
