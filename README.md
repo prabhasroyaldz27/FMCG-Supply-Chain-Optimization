@@ -5,6 +5,7 @@ Supply Chain Management (SCM) here refers to the complete set of processes invol
 Creation → sourcing raw materials and producing instant noodles.
 Storage → managing warehouses efficiently based on capacity and demand.
 Movement → transporting noodles across regions to ensure timely delivery.
+
 <img width="445" height="307" alt="{7CE95131-FC54-4B1A-ADCA-25AC2BE9388A}" src="https://github.com/user-attachments/assets/0a2e727c-8bc7-480d-841a-44d7be690bb5" />
 
 
