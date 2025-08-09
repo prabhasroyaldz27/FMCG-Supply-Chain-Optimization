@@ -37,12 +37,3 @@ Reveals that Distance_to_efficiency inversely affects supply – as the distance
 
 Power BI Dashboard 
 ![aed36e19744646aaaf54b498ec56c636](https://github.com/user-attachments/assets/5c059c0f-4e57-45cd-a87c-819251d7bfc0)
-
-
-
-
-
-
-
-Ask ChatGPT
-
