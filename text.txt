@@ -1,0 +1,10 @@
+4). K-Means Clustering for Demand Pattern Analysis by 
+Region 
+Clustering helps the company: 
+• Reduce costs by avoiding unnecessary shipments to low
+demand areas. 
+• Maximize revenue by ensuring products are available where 
+they are most needed. 
+• Optimize marketing to increase demand in strategic areas. 
+• Improve customer satisfaction through better availability of 
+products. 
