@@ -31,5 +31,5 @@ This project uses a **Random Forest Classifier** to predict whether warehouses a
   - **Weighted Average:** Precision 0.87 | Recall 0.91 | F1-Score 0.88  
 
 - The model performs very well for **non-flooded warehouses**, but struggles with correctly detecting **flooded warehouses** due to class imbalance.
-
+## Confusion Matrix
 <img width="306" height="137" alt="{77A115DC-28FA-4F3E-A87F-D882A50DC374}" src="https://github.com/user-attachments/assets/49646c01-717a-4cf2-8588-2e404d2bb15d" />
