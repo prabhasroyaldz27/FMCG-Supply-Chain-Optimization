@@ -33,9 +33,3 @@
 
 ### Confusion Matrix
 ![Confusion Matrix](https://github.com/user-attachments/assets/2aca98e9-8c9d-4087-a4a3-4fccb3adf9b6)
-
-## Observations
-- Decision Tree provides interpretable rules (`decision_tree_rules.txt`).
-- Feature importance plot (`decision_tree_feature_importance.png`) shows which variables contribute most to predictions.
-- The model performs well for the dominant class but struggles with minority class prediction (flooded warehouses).
-- Increasing data for flooded warehouses or using class-weight adjustments may improve performance.
