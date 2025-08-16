@@ -33,6 +33,6 @@ This project uses a **Gradient Boosting Classifier** to predict whether warehous
 
 - The model performs very well for **non-flooded warehouses**, but struggles with correctly detecting **flooded warehouses** due to class imbalance.
 
-## Visualization
+## Confusion Matrix
 <img width="478" height="185" alt="Gradient Boosting Results" src="https://github.com/user-attachments/assets/c487028a-178f-4499-8315-b6a4f6fb5b82" />
 
