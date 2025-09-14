@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('your_dataset.csv')
+df = pd.read_csv('FMCG_data_processed.csv')
 
 # Demand Supply Ratio
 df['demand_supply_ratio'] = df['num_refill_req_l3m'] / (df['product_wg_ton'] + 1)
